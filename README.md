@@ -6,7 +6,7 @@ Predict house prices based on features like area, bedrooms, bathrooms, location,
 ##  Dataset
 Lahore House Price Dataset (Kaggle)
 
-## 🛠 Tools Used
+##  Tools Used
 - Python
 - Pandas, NumPy
 - Scikit-learn
